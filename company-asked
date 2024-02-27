@@ -4,5 +4,5 @@
  b. for login
  c. for language (globalization) for application
 3. Error handling in react js functional component explains
-4. can we store the token in local storage?
+4. is good to store the token in local storage?
 5. is good to store the token in session storage?
