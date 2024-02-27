@@ -1,7 +1,8 @@
-1. why we are using next js over react js ?
+1. why we are using next js over react js?
 2. suppose we have redux and context which is good for 
  a. theme change
  b. for login
  c. for language (globalization) for application
 3. Error handling in react js functional component explains
-4. 
+4. can we store the token in local storage?
+5. is good to store the token in session storage?
